@@ -3111,6 +3111,7 @@ td:last-child {
 
 .grid-list-items__item {
 	margin-bottom: var(--vspace-0_5);
+	
 }
 
 /* ------------------------------------------------------------------- 
@@ -4501,7 +4502,7 @@ td:last-child {
 }
 
 .entry__content {
-	padding-top: var(--vspace-3);
+	padding: 10px;
 }
 
 .entry__media {
